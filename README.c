@@ -1,3 +1,5 @@
-# hello-a
-My name is aseel
+#include 
+
+int main(void){
 printf("hello world")
+}
